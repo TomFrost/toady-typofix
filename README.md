@@ -2,7 +2,7 @@
 A Toady mod to fix typos by saying s/FIND/REPLACE/ after your message
 
 ##Install
-Install into a [Toady](https://github.com/TomFrost/Toady)instance with:
+Install into a [Toady](https://github.com/TomFrost/Toady) instance with:
 
     ./ribbit install typofix
 
