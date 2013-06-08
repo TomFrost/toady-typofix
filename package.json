@@ -1,0 +1,24 @@
+{
+  "name": "toady-typofix",
+  "version": "0.1.0",
+  "description": "Fix typos by saying s/FIND/REPLACE/ after your message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomFrost/toady-typofix"
+  },
+  "keywords": [
+    "Toady",
+    "irc",
+    "bot",
+    "typofix",
+    "typo",
+    "fix",
+    "replace"
+  ],
+  "author": "Tom Frost <tom@frosteddesign.com>",
+  "license": "MIT"
+}
