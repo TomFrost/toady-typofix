@@ -78,12 +78,10 @@ module.exports = function(config, client, modMan) {
 
 	return {
 		name: 'TypoFix',
-		desc: "Fix typos by saying s/FIND/REPLACE/ after your message",
-		version: '0.1.0',
-		author: 'Tom Frost',
 		unload: function() {
 			client.removeListener('message', messageHandler);
 			client.removeListener('part', partHandler);
 		}
 	};
 };
+
