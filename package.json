@@ -1,6 +1,6 @@
 {
   "name": "toady-typofix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fix typos by saying s/FIND/REPLACE/ after your message",
   "main": "index.js",
   "scripts": {
